@@ -5,3 +5,7 @@ https://www.kaggle.com/code/gcdatkin/pneumonia-x-ray-classification-mobilenetv2/
 Implement simple autoencoder to reconstruct MNIST digits. Add sparsity constraint on the encoded representations 
 
 https://blog.keras.io/building-autoencoders-in-keras.html
+
+https://pyimagesearch.com/2021/05/06/implementing-feedforward-neural-networks-with-keras-and-tensorflow/
+
+https://www.datascience2000.in/2021/11/fashion-products-classification-using.html
