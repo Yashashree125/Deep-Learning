@@ -1,0 +1,7 @@
+Build image classification model using CNN on pneumonia X RAY IMAGE dataset.
+
+https://www.kaggle.com/code/gcdatkin/pneumonia-x-ray-classification-mobilenetv2/notebook
+
+Implement simple autoencoder to reconstruct MNIST digits. Add sparsity constraint on the encoded representations 
+
+https://blog.keras.io/building-autoencoders-in-keras.html
